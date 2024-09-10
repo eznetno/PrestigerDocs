@@ -39,7 +39,7 @@ To the fullest extent permitted by law, we are not liable for any indirect, inci
 We may update these Terms from time to time. We will notify you of any significant changes by posting the new Terms on our website or within the Bot. Your continued use of the Bot after such changes constitutes your acceptance of the new Terms.
 
 ## 10. Governing Law
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
+These Terms are governed by and construed in accordance with the laws of Sweden, without regard to its conflict of laws principles.
 
 ## 11. Contact Information
 If you have any questions about these Terms or the Bot, please contact us at discord @v1pe.
